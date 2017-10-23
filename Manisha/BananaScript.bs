@@ -1,1 +1,5 @@
-// Steps for creating subset of JS using BNF
+make x be 5:
+go bananas x bigger than 0:
+    shout x
+    enshrinken x
+end
